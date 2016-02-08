@@ -1,0 +1,18 @@
+{
+  "name": "abstract-machine",
+  "main": "./lib/abstract-machine",
+  "version": "0.0.0",
+  "description": "A short description of your package",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "abstract-machine:toggle"
+  },
+  "repository": "https://github.com/atom/abstract-machine",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
