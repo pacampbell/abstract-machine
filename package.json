@@ -2,13 +2,13 @@
   "name": "abstract-machine",
   "main": "./lib/abstract-machine",
   "version": "0.0.0",
-  "description": "A short description of your package",
+  "description": "Base package for a plugin for atom which will allow you to defined simple abstract computer achitectures. This plugin offers an editing, assembling, and runtime environment for an implemented machine.",
   "keywords": [
   ],
   "activationCommands": {
     "atom-workspace": "abstract-machine:toggle"
   },
-  "repository": "https://github.com/atom/abstract-machine",
+  "repository": "https://github.com/pacampbell/abstract-machine",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
